@@ -27,3 +27,4 @@ export const getProducts = () => {
     })
 }
 
+export default asyncMock
